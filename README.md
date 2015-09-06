@@ -1,5 +1,5 @@
 # HIDExplorer
-Display details of installed HIDs ( Human Interface Devices )
+A windows console program to display details of installed HIDs ( Human Interface Devices )
 
 Sample run:
 
